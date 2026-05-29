@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Unreal+Engine+5+Developer;C%23+%2F+.NET+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Unreal+Engine+Developer;C%23+%2F+.NET+Backend+Developer" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://voidmarkinteractive.com">🌐 voidmarkinteractive.com</a> • 
