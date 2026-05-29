@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hakanHT/hakanHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Unreal+Engine+5+Developer;C%23+%2F+.NET+Backend+Developer" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://voidmarkinteractive.com">🌐 voidmarkinteractive.com</a> • 
+    <a href="mailto:ht.tunahakan@gmail.com">📧 ht.tunahakan@gmail.com</a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+  <!-- Hareketli, Görüntüsü Bozulmayan Kaliteli Teknolojiler -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,dotnet,windows,linux,html,css&theme=dark" />
+  </p>
