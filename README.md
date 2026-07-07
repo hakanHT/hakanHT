@@ -10,5 +10,6 @@
   ---
   <!-- Hareketli, Görüntüsü Bozulmayan Kaliteli Teknolojiler -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,dotnet,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unreal,cs,dotnet,github,docker,mysql,html,css&theme=dark" />
+</p>
   </p>
